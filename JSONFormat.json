@@ -1,0 +1,53 @@
+var conversions = [{
+  "unit":"millimetre",
+  "symbols":["mm"],
+  "measures": "length",
+  "conversionFactorTo":
+    {
+      "mm":1,
+      "cm":100,
+      "m":1000,
+      "km":100000,
+      "ft":3.281E-03
+    }
+  },
+  {
+  "unit":"centimetre",
+  "symbols":["cm"],
+  "measures": "length",
+  "conversionFactorTo":
+    {
+      "mm":0.01,
+      "cm":1,
+      "m":100,
+      "km":10000,
+      "ft":3.281E-03
+    }
+  },
+  {
+  "unit":"metre",
+  "symbols":["m"],
+  "measures": "length",
+  "conversionFactorTo":
+    {
+      "mm":0.001,
+      "cm":0.01,
+      "m":1,
+      "km":1000,
+      "ft":3.281
+    }
+  },
+  {
+  "unit":"kilometre",
+  "symbols":["km","k"],
+  "measures": "length",
+  "conversionFactorTo":
+    {
+      "mm":0.00001,
+      "cm":0.0001,
+      "m":0.001,
+      "km":1,
+      "ft":3280.840
+    }
+  }
+  ];

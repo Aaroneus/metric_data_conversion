@@ -1,0 +1,926 @@
+abampere ----> ampere ----> c.f.== 10
+abcoulomb ----> coulomb ----> c.f.== 10
+abfarad ----> farad ----> c.f.== 1E+09
+acre ----> sq. chain (Gunter's) ----> c.f.== 10
+acre ----> sq. rods ----> c.f.== 160
+acre ----> sq. links (Gunter's) ----> c.f.== 100000
+acre ----> hectare or sq. hectometer ----> c.f.== 0.4047
+acres ----> sq. feet ----> c.f.== 43560
+acres ----> sq. meters ----> c.f.== 4047
+acres ----> sq. miles ----> c.f.== .001562
+acres ----> sq. yards ----> c.f.== 4840
+acre-feet ----> cu. feet ----> c.f.== 43560
+acre-feet ----> gallons ----> c.f.== 325900
+ampere-hours ----> coulombs ----> c.f.== 3600
+ampere-hours ----> faradays ----> c.f.== 0.03731
+ampere-turns ----> gilberts ----> c.f.== 1.257
+angstrom unit ----> inch ----> c.f.== 3.937E-06
+angstrom unit ----> meter ----> c.f.== 1E-10
+angstrom unit ----> micron ----> c.f.== .0001
+astromical init ----> kilometers ----> c.f.== 1.495E+08
+atmospheres ----> ton/sq. inch ----> c.f.== 0.007348
+atmospheres ----> cms of mercury ----> c.f.== 76
+atmospheres ----> ft. of water (at 4 degrees C) ----> c.f.== 33.9
+atmospheres ----> in. of mercury (at 0 degrees C) ----> c.f.== 29.92
+atmospheres ----> kgs/sq. cm ----> c.f.== 1.0333
+atmospheres ----> kgs/sq. meter ----> c.f.== 10332
+atmospheres ----> pounds/sq. in ----> c.f.== 14.7
+atmospheres ----> tons/sq. ft ----> c.f.== 1.058
+barrels (US dry) ----> cu. inches ----> c.f.== 7056
+barrels (US dry) ----> quarts (dry) ----> c.f.== 105
+barrels (US, liquid) ----> gallons ----> c.f.== 31.5
+barrels (oil) ----> gallons (oil) ----> c.f.== 42
+bars ----> atmospheres ----> c.f.== .9869
+bars ----> dynes/sq. cm ----> c.f.== 1000000
+bars ----> kgs/sq. meter ----> c.f.== 10200
+bars ----> pounds/sq. ft ----> c.f.== 2089
+bars ----> pounds/sq. in ----> c.f.== 14.5
+bolt (US cloth) ----> meters ----> c.f.== 36.576
+Btu ----> ergs ----> c.f.== 1.055E+10
+Btu ----> foot-lbs ----> c.f.== 778.3
+Btu ----> gram-calories ----> c.f.== 252
+Btu ----> horsepower-hrs ----> c.f.== .0003931
+Btu ----> joules ----> c.f.== 1054.8
+Btu ----> kilogram-calories ----> c.f.== 0.2520
+Btu ----> kilogram-meters ----> c.f.== 107.5
+Btu ----> kilowatt-hrs ----> c.f.== .0002928
+Btu/hr ----> foot-pounds/sec ----> c.f.== .2162
+Btu/hr ----> gram-cal/sec ----> c.f.== .07
+Btu/hr ----> horsepower-hrs ----> c.f.== .0003929
+Btu/hr ----> watts ----> c.f.== 0.2931
+Btu/min ----> foot-lbs/sec ----> c.f.== 12.96
+Btu/min ----> horsepower ----> c.f.== 0.02356
+Btu/min ----> kilowatts ----> c.f.== 0.01757
+Btu/min ----> watts ----> c.f.== 17.57
+Btu/sq. ft/min ----> watts/sq. in ----> c.f.== .1221
+bucket (Brit. dry) ----> cubic cm ----> c.f.== 18180
+bushels ----> cu. ft ----> c.f.== 1.2445
+bushels ----> cu. in ----> c.f.== 2150.4
+bushels ----> cu. meters ----> c.f.== .03524
+bushels ----> liters ----> c.f.== 35.24
+bushels ----> pecks ----> c.f.== 4
+bushels ----> pint (dry) ----> c.f.== 64
+bushels ----> quarts (dry) ----> c.f.== 32
+caliber ----> inches ----> c.f.== 0.01
+caliber ----> millimeters ----> c.f.== 0.254
+calorie, gram (mean) ----> Btu (mean) ----> c.f.== .00396832
+calorie ----> horsepower-hour ----> c.f.== 1.55961E-06
+calorie ----> horsepower-hour (metric) ----> c.f.== 1.58124E-06
+calorie ----> joule ----> c.f.== 4.1868
+calorie ----> kilowatt-hour ----> c.f.== 1.163E-06
+candle/sq. cm ----> lamberts ----> c.f.== 3.142
+candle/sq. inch ----> lamberts ----> c.f.== .487
+centares (centiares) ----> sq. meters ----> c.f.== 1
+centigrams ----> grams ----> c.f.== .01
+centiliter ----> ounce fluid (US) ----> c.f.== .3382
+centiliter ----> cubic inch ----> c.f.== .6103
+centiliter ----> drams ----> c.f.== 2.705
+centiliters ----> liters ----> c.f.== .01
+centimeters ----> feet ----> c.f.== .03281
+centimeters ----> inches ----> c.f.== .3937
+centimeters ----> kilometers ----> c.f.== .00001
+centimeters ----> meters ----> c.f.== .01
+centimeters ----> miles ----> c.f.== 6.214E-06
+centimeters ----> millimeters ----> c.f.== 10
+centimeters ----> mils ----> c.f.== 393.7
+centimeters ----> yards ----> c.f.== .01094
+centimeters-dynes ----> cm-grams ----> c.f.== .00102
+centimeter-dynes ----> meter-kgs ----> c.f.== 1.02E-08
+centimeter-dynes ----> pound-feet ----> c.f.== 7.376E-08
+centimeter-grams ----> cm-dynes ----> c.f.== 980.7
+centimeter-grams ----> meter-kgs ----> c.f.== .00001
+centimeter-grams ----> pound-feet ----> c.f.== .07233
+centimeters of mercury ----> atmospheres ----> c.f.== 0.01316
+centimeters of mercury ----> feet of water ----> c.f.== .4461
+centimeters of mercury ----> kgs/sq. meter ----> c.f.== 136
+centimeters of mercury ----> pounds/sq. ft ----> c.f.== 27.85
+centimeters of mercury ----> pounds/sq. in ----> c.f.== .1934
+centimeters/sec ----> feet/min ----> c.f.== 1.1969
+centimeters/sec ----> feet/sec ----> c.f.== 0.03281
+centimeters/sec ----> kilometers/hr ----> c.f.== 0.036
+centimeters/sec ----> knots ----> c.f.== 0.1943
+centimeters/sec ----> meters/min ----> c.f.== .6
+centimeters/sec ----> miles/hr ----> c.f.== .02237
+centimeters/sec ----> miles/min ----> c.f.== .0003728
+centimeters/sec/sec ----> feet/sec/sec ----> c.f.== .03281
+centimeters/sec/sec ----> kms/hr/sec ----> c.f.== .036
+centimeters/sec/sec ----> meters/sec/sec ----> c.f.== .01
+centimeters/sec/sec ----> miles/hr/sec ----> c.f.== .02237
+chain ----> inches ----> c.f.== 792
+chain ----> meters ----> c.f.== 20.12
+chain (surveyor's or Gunter's) ----> yards ----> c.f.== 22
+circular mils ----> sq. cms ----> c.f.== 5.067E-06
+circular mils ----> sq. mils ----> c.f.== .7854
+circular mils ----> sq. inches ----> c.f.== 7.854E-07
+circumference ----> radians ----> c.f.== 6.283
+cords ----> cord feet ----> c.f.== 8
+cord feet ----> cu. feet ----> c.f.== 16
+coulomb ----> statcoulombs ----> c.f.== 2.998E+09
+coulombs ----> faradays ----> c.f.== 1.036E-05
+coulombs/sq. cm ----> coulombs/sq. in ----> c.f.== 64.52
+coulombs/sq. cm ----> coulombs/sq. meter ----> c.f.== 10000
+coulombs/sq. in ----> coulombs/sq. cm ----> c.f.== 0.1550
+coulombs/sq. in ----> coulombs/sq. meter ----> c.f.== 1550
+coulombs/sq. meter ----> coulombs/sq. cm ----> c.f.== .0001
+coulombs/sq. meter ----> coulombs/sq. in ----> c.f.== .0006452
+cubic centimeter ----> cu. foot ----> c.f.== 3.531467E-05
+cubic centimeter ----> cu. inch ----> c.f.== .06102374
+cubic centimeter ----> cu. meter ----> c.f.== .000001
+cubic centimeter ----> cu. millimeter ----> c.f.== 1000
+cubic centimeter ----> cu. yard ----> c.f.== 1.307951E-06
+cubic centimeter ----> drachm (Brit. fluid) ----> c.f.== .2815606
+cubic centimeter ----> dram (U.S. fluid) ----> c.f.== .2705122
+cubic centimeter ----> gallon (Brit liq.) ----> c.f.== 2.199692E-04
+cubic centimeter ----> gallon (US liq.) ----> c.f.== 2.641721E-04
+cubic centimeter ----> liter ----> c.f.== 0.001
+cubic centimeter ----> pint (US liq.) ----> c.f.== .002113
+cubic centimeter ----> quart (US liq.) ----> c.f.== .001057
+cubic feet ----> bushels (dry) ----> c.f.== .8036
+cubic feet ----> cu. cms ----> c.f.== 28320
+cubic feet ----> cu. inches ----> c.f.== 1728
+cubic feet ----> cu. meters ----> c.f.== .02832
+cubic feet ----> cu. yards ----> c.f.== .037037037
+cubic feet ----> gallons (US liq.) ----> c.f.== 7.48052
+cubic feet ----> liters ----> c.f.== 28.32
+cubic feet ----> pints (US liq.) ----> c.f.== 59.84
+cubic feet ----> quarts (US liq) ----> c.f.== 29.92
+cubic feet/min ----> cu. cms/sec ----> c.f.== 472
+cubic feet/min ----> gallons/sec ----> c.f.== .1247
+cubic feet/min ----> liters/sec ----> c.f.== .4720
+cubic feet/min ----> pounds of water/min ----> c.f.== 62.43
+cubic feet/sec ----> million gals./day ----> c.f.== .646317
+cubic feet/sec ----> gallons/min ----> c.f.== 448.831
+cubic inches ----> cu. cms ----> c.f.== 16.39
+cubic inches ----> cu. feet ----> c.f.== .0005787
+cubic inches ----> cu. meters ----> c.f.== 1.639E-05
+cubic inches ----> cubic yards ----> c.f.== 2.143E-05
+cubic inches ----> gallons ----> c.f.== .004329
+cubic inches ----> mil-feet ----> c.f.== 106100
+cubic inches ----> pints (US liq.) ----> c.f.== .03463
+cubic inches ----> quarts (US liq.) ----> c.f.== .01732
+cubic meters ----> bushels (dry) ----> c.f.== 28.38
+cubic meters ----> cubic cms ----> c.f.== 1000000
+cubic meters ----> cubic feet ----> c.f.== 35.31
+cubic meters ----> cubic inches ----> c.f.== 61023
+cubic meters ----> cubic yards ----> c.f.== 1.307951
+cubic meters ----> gallons (US liq.) ----> c.f.== 264.2
+cubic meters ----> liters ----> c.f.== 1000
+cubic meters ----> pints (US liq.) ----> c.f.== 2113
+cubic meters ----> quarts (US liq.) ----> c.f.== 1057
+cubic yards ----> cubic cms ----> c.f.== 764600
+cubic yards ----> cubic feet ----> c.f.== 27
+cubic yards ----> cubic inches ----> c.f.== 46656
+cubic yards ----> cubic meters ----> c.f.== .7646
+cubic yards ----> gallons (US liq.) ----> c.f.== 202
+cubic yards ----> liters ----> c.f.== 764.6
+cubic yards ----> pints (US liq.) ----> c.f.== 1615.9
+cubic yards ----> quarts (US liq.) ----> c.f.== 807.9
+cubic yards/min ----> cubic feet/sec ----> c.f.== .45
+cubic yards/min ----> gallons/sec ----> c.f.== 3.367
+cubic yards/min ----> liters/sec ----> c.f.== 12.74
+cups ----> cubic cms ----> c.f.== 236.588
+days ----> seconds ----> c.f.== 86400
+decigrams ----> grams ----> c.f.== .1
+deciliters ----> liters ----> c.f.== .1
+decimeters ----> meters ----> c.f.== .1
+degrees (angle) ----> quadrants ----> c.f.== .01111
+degrees (angle) ----> radians ----> c.f.== .01745
+degrees (angle) ----> seconds ----> c.f.== 3600
+degrees/sec ----> radians/sec ----> c.f.== .01745
+degrees/sec ----> revolutions/min ----> c.f.== .1667
+degrees/sec ----> revolutions/sec ----> c.f.== .002778
+dekagrams ----> grams ----> c.f.== 10
+dekaliters ----> liters ----> c.f.== 10
+dekameters ----> meters ----> c.f.== 10
+drams(apoth. or troy) ----> ounces(avoirdupois) ----> c.f.== .1371429
+drams(apoth. or troy) ----> ounces (troy) ----> c.f.== .125
+drams(US fluid or apoth.) ----> cubic cm ----> c.f.== 3.6967
+drams ----> grains ----> c.f.== 27.3437
+drams ----> grams ----> c.f.== 1.7718
+drams ----> ounces ----> c.f.== .0625
+drops ----> teaspoons ----> c.f.== .01666
+dyne/cm ----> erg/sq. millimeter ----> c.f.== .01
+dyne/sq. cm ----> atmospheres ----> c.f.== 9.869E-07
+dyne/sq. cm ----> inch of mercury at 0�C ----> c.f.== 2.953E-05
+dyne/sq. cm ----> inch of water at 4�C ----> c.f.== .0004015
+dynes ----> grams ----> c.f.== .00102
+dynes ----> joules/cm ----> c.f.== .0000001
+dynes ----> joules/meter (newtons) ----> c.f.== .00001
+dynes ----> kilograms ----> c.f.== 1.02E-06
+dynes ----> poundals ----> c.f.== 7.233E-05
+dynes ----> pounds ----> c.f.== 2.248E-06
+dynes/sq. cm ----> bars ----> c.f.== .000001
+ell ----> cm ----> c.f.== 114.3
+ell ----> inches ----> c.f.== 45
+em (pica) ----> inch ----> c.f.== .167
+em (pica) ----> cm ----> c.f.== .4233
+erg/sec ----> dyne-cm/sec ----> c.f.== 1.0
+ergs ----> Btu ----> c.f.== 9.48E-11
+ergs ----> dyne-centimeters ----> c.f.== 1.0
+ergs ----> foot-pounds ----> c.f.== 7.367E-08
+ergs ----> gram-calories ----> c.f.== 2.389E-08
+ergs ----> grams-cms ----> c.f.== .00102
+ergs ----> horsepower-hrs ----> c.f.== 3.725E-14
+ergs ----> joules ----> c.f.== .0000001
+ergs ----> kg-calories ----> c.f.== 2.389E-11
+ergs ----> kg-meters ----> c.f.== 1.02E-08
+ergs ----> kilowatt-hrs ----> c.f.== 2.778E-14
+ergs ----> watt-hrs ----> c.f.== 2.778E-11
+ergs/sec ----> Btu/min ----> c.f.== 5.688E-06
+ergs/sec ----> ft-lbs/min ----> c.f.== 4.427E-06
+ergs/sec ----> ft-lbs/sec ----> c.f.== 7.3756E-08
+ergs/sec ----> horsepower ----> c.f.== 1.341E-10
+ergs/sec ----> kg-calories/min ----> c.f.== 1.433E-09
+ergs/sec ----> kilowatts ----> c.f.== 1E-10
+farads ----> microfarads ----> c.f.== 1000000
+faraday/sec ----> ampere (absolute) ----> c.f.== 96500
+faradays ----> ampere-hours ----> c.f.== 26.8
+faradays ----> coulombs ----> c.f.== 96490
+fathoms ----> meter ----> c.f.== 1.828804
+fathoms ----> feet ----> c.f.== 6
+feet ----> centimeters ----> c.f.== 30.48
+feet ----> kilometers ----> c.f.== .0003048
+feet ----> meters ----> c.f.== .3048
+feet ----> miles (naut.) ----> c.f.== .0001645
+feet ----> miles (stat.) ----> c.f.== .0001894
+feet ----> millimeters ----> c.f.== 304.8
+feet ----> mils ----> c.f.== 12000
+feet of water ----> amospheres ----> c.f.== .0295
+feet of water ----> in. of mercury ----> c.f.== .8826
+feet of water ----> kgs/sq. cm ----> c.f.== .03048
+feet of water ----> kgs/sq. meter ----> c.f.== 304.8
+feet of water ----> pounds/sq. ft ----> c.f.== 62.43
+feet of water ----> pounds/sq. in ----> c.f.== .4335
+feet/min ----> cms/sec ----> c.f.== .5080
+feet/min ----> feet/sec ----> c.f.== .01667
+feet/min ----> kms/kr ----> c.f.== .01829
+feet/min ----> meters/min ----> c.f.== .3048
+feet/min ----> miles/hr ----> c.f.== .01136
+feet/sec ----> cms/sec ----> c.f.== 30.48
+feet/sec ----> kms/hr ----> c.f.== 1.097
+feet/sec ----> knots ----> c.f.== .5921
+feet/sec ----> meters/min ----> c.f.== 18.29
+feet/sec ----> miles/hr ----> c.f.== .6818
+feet/sec ----> miles/min ----> c.f.== .01136
+feet/sec/sec ----> cms/sec/sec ----> c.f.== 30.48
+feet/sec/sec ----> kms/hr/sec ----> c.f.== 1.097
+feet/sec/sec ----> meters/sec/sec ----> c.f.== .3048
+feet/sec/sec ----> miles/hr/sec ----> c.f.== .6818
+feet/100 feet ----> per cent grade ----> c.f.== 1.0
+foot-candle ----> lumen/sq. meter ----> c.f.== 10.764
+foot-pounds ----> Btu ----> c.f.== .001286
+foot-pounds ----> ergs ----> c.f.== 1.356E+07
+foot-pounds ----> gram-calories ----> c.f.== .3238
+foot-pounds ----> hp-hrs ----> c.f.== 5.05E-07
+foot-pounds ----> joules ----> c.f.== 1.356
+foot-pounds ----> kg-calories ----> c.f.== .000324
+foot-pounds ----> kg-meters ----> c.f.== .1383
+foot-pounds ----> kilowatt-hrs ----> c.f.== 3.766E-07
+foot-pounds/min ----> Btu/min ----> c.f.== .001286
+foot-pounds/min ----> foot-pounds/sec ----> c.f.== .01667
+foot-pounds/min ----> horsepower ----> c.f.== .0000303
+foot-pounds/min ----> kg-calories/min ----> c.f.== .000324
+foot-pounds/min ----> kilowatts ----> c.f.== .0000226
+foot-pounds/sec ----> Btu/hr ----> c.f.== 4.6263
+foot-pounds/sec ----> Btu/min ----> c.f.== .07717
+foot-pounds/sec ----> horsepower ----> c.f.== 1.81818E-03
+foot-pounds/sec ----> kg-calories/min ----> c.f.== 1.01945
+foot-pounds/sec ----> kilowatts ----> c.f.== .001356
+furlongs ----> miles (US) ----> c.f.== .125
+furlongs ----> rods ----> c.f.== 40.0
+furlongs ----> feet ----> c.f.== 660.0
+gallons ----> cubic cms ----> c.f.== 3785.412
+gallons ----> cubic feet ----> c.f.== .1337
+gallons ----> cu. inches ----> c.f.== 231
+gallons ----> cu. meters ----> c.f.== .003785
+gallons ----> cu. yards ----> c.f.== .004951
+gallons ----> liters ----> c.f.== 3.785
+gallons (liq. British imp.) ----> gallons (US liq.) ----> c.f.== 1.20095
+gallons (US) ----> gallons (imp.) ----> c.f.== .83267
+gallons of water ----> pounds of water ----> c.f.== 8.3453
+gallons/min ----> cu. ft/sec ----> c.f.== .002228
+gallons/min ----> liters/sec ----> c.f.== .06308
+gallons/min ----> cu. feet/hr ----> c.f.== 8.0208
+gausses ----> lines/sq. inch ----> c.f.== 6.452
+gausses ----> webers/sq. cm ----> c.f.== 1E-08
+gausses ----> webers/sq. inch ----> c.f.== 6.452E-08
+gausses ----> webers/sq. meter ----> c.f.== .0001
+gilberts ----> ampere-turns ----> c.f.== .7958
+gilberts/cm ----> amp-turns/cm ----> c.f.== .7958
+gilberts/cm ----> amp-turns/in ----> c.f.== 2.021
+gilberts/cm ----> amp-turns/meter ----> c.f.== 79.581
+gills (British) ----> cubic cm ----> c.f.== 142.07
+gills ----> liters ----> c.f.== .1183
+gills ----> pints (liq.) ----> c.f.== .25
+grains ----> drams (avoirdupois) ----> c.f.== .03657143
+grains (troy) ----> grains (avoirdupois) ----> c.f.== 1
+grains (troy) ----> grams ----> c.f.== .0648
+grains (troy) ----> ounces (avoirdupois) ----> c.f.== .002286
+grains (troy) ----> pennyweight (troy) ----> c.f.== .04167
+grains/US gallon ----> parts/million ----> c.f.== 17.118
+grains/US gallon ----> pounds/million gal ----> c.f.== 142.86
+grains/imp. gallon ----> parts/million ----> c.f.== 14.286
+grams ----> carat(metric) ----> c.f.== 5
+grams ----> dram ----> c.f.== 0.56438339
+grams ----> dynes ----> c.f.== 980.7
+grams ----> grains ----> c.f.== 15.43
+grams ----> joules/cm ----> c.f.== 9.807E-05
+grams ----> joules/meter (newtons) ----> c.f.== 9.807E-03
+grams ----> kilograms ----> c.f.== .001
+grams ----> milligrams ----> c.f.== 1000
+grams ----> ounces(avoirdupois) ----> c.f.== .035273962
+grams ----> ounces (troy) ----> c.f.== .032150747
+grams ----> poundals ----> c.f.== .07093
+grams ----> pounds ----> c.f.== .0022046226
+grams/cm ----> pounds/inch ----> c.f.== .0056
+grams/cu. cm ----> pounds/cu. ft ----> c.f.== 62.43
+grams/cu. cm ----> pounds/cu. in ----> c.f.== .03613
+grams/cu. cm ----> pounds/mil-foot ----> c.f.== 3.405E-07
+grams/liter ----> grains/gal ----> c.f.== 58.417
+grams/liter ----> pounds/1000 gal ----> c.f.== 8.345
+grams/liter ----> pounds/cu. ft ----> c.f.== .062427
+grams/liter ----> parts/million ----> c.f.== 1000
+grams/sq. cm ----> pounds/sq. ft ----> c.f.== 2.0481
+gram-calories ----> Btu ----> c.f.== .0039683
+gram-calories ----> ergs ----> c.f.== 4.1868E-07
+gram-calories ----> foot-pounds ----> c.f.== 3.088
+gram-calories ----> horsepower-hrs ----> c.f.== 1.5596E-06
+gram-calories ----> kilowatt-hrs ----> c.f.== 1.1630E-06
+gram-calories ----> watt-hrs ----> c.f.== .001163
+gram-calories/sec ----> Btu/hr ----> c.f.== 14.286
+gram-calories ----> Btu ----> c.f.== 9.297E-08
+gram-centimeters ----> ergs ----> c.f.== 980.7
+gram-centimeters ----> joules ----> c.f.== 980700
+gram-centimeters ----> kg-cal ----> c.f.== 2.343E+08
+gram-centimeters ----> kg-meters ----> c.f.== 100000
+hand ----> cm ----> c.f.== 10.16
+hectares ----> acres ----> c.f.== 2.471
+hectares ----> sq. feet ----> c.f.== 107600
+hectograms ----> grams ----> c.f.== 100
+hectoliters ----> liters ----> c.f.== 100
+hectometers ----> meters ----> c.f.== 100
+hectowatts ----> watts ----> c.f.== 100
+henries ----> millihenries ----> c.f.== 1000
+hogsheads (British) ----> cubic feet ----> c.f.== 10.114
+hogsheads (U.S.) ----> cubic feet ----> c.f.== 8.42184
+hogsheads (U.S.) ----> gallons (U.S.) ----> c.f.== 63
+horsepower ----> Btu/min ----> c.f.== 42.44
+horsepower ----> foot-lbs/min ----> c.f.== 33000
+horsepower ----> foot-lbs/sec ----> c.f.== 550
+horsepower (metric) ----> horsepower ----> c.f.== .9863
+horsepower ----> kg-calories/min ----> c.f.== 10.68
+horsepower ----> kilowatts ----> c.f.== .7457
+horsepower ----> watts ----> c.f.== 745.7
+horsepower (boiler) ----> Btu/hr ----> c.f.== 33479
+horsepower (boiler) ----> kilowatts ----> c.f.== 9.803
+horsepower-hrs ----> Btu ----> c.f.== 2547
+horsepower-hrs ----> ergs ----> c.f.== 2.6845E+13
+horsepower-hrs ----> foot-lbs ----> c.f.== 1980000
+horsepower-hrs ----> gram-calories ----> c.f.== 641190
+horsepower-hrs ----> joules ----> c.f.== 2684000
+horsepower-hrs ----> kg-calories ----> c.f.== 641.1
+horsepower-hrs ----> kg-meters ----> c.f.== 273700
+horsepower-hrs ----> kilowatt-hrs ----> c.f.== .7457
+hours (mean solar) ----> days ----> c.f.== .04166667
+hours (mean solar) ----> weeks ----> c.f.== .005952381
+hundredweights (long) ----> pounds ----> c.f.== 112
+hundredweights (long) ----> tons (long) ----> c.f.== .05
+hundredweights (short) ----> ounces (avoirdupois) ----> c.f.== 1600
+hundredweights (short) ----> pounds ----> c.f.== 100
+hundredweights (short) ----> tons (metric) ----> c.f.== .0453592
+hundredweights (short) ----> tons (long) ----> c.f.== .0446429
+inches ----> centimeters ----> c.f.== 2.54
+inches ----> feet ----> c.f.== 0.08333333
+inches ----> meters ----> c.f.== .0254
+inches ----> miles ----> c.f.== .00001578
+inches ----> millimeters ----> c.f.== 25.4
+inches ----> mils ----> c.f.== 1000
+inches ----> yards ----> c.f.== .027777778
+inches of mercury ----> atmospheres ----> c.f.== .03342
+inches of mercury ----> feet of water ----> c.f.== 1.133
+inches of mercury ----> kgs/sq. cm ----> c.f.== .03453
+inches of mercury ----> kgs/sq. meter ----> c.f.== 345.3
+inches of mercury ----> pounds/sq. ft. ----> c.f.== 70.73
+inches of mercury ----> pounds/sq. in. ----> c.f.== .4912
+inches of water (at 4�C) ----> atmospheres ----> c.f.== .002458
+inches of water (at 4�C) ----> inches of mercury ----> c.f.== .07355
+inches of water (at 4�C) ----> kgs/sq. cm ----> c.f.== .00254
+inches of water (at 4�C) ----> ounces/sq. in ----> c.f.== .5781
+inches of water (at 4�C) ----> pounds/sq. ft ----> c.f.== 5.204
+inches of water (at 4�C) ----> pounds/sq. in ----> c.f.== .03613
+international ampere ----> ampere (absolute) ----> c.f.== .9998
+international volt ----> joules (absolute) ----> c.f.== 1.593E-19
+international volt ----> joules ----> c.f.== 96540
+joules ----> Btu ----> c.f.== 9.48E-04
+joules ----> ergs ----> c.f.== 10000000
+joules ----> foot-pounds ----> c.f.== .7376
+joules ----> kg-calories ----> c.f.== .0002389
+joules ----> kg-meters ----> c.f.== .102
+joules ----> watt-hrs ----> c.f.== .0002778
+joules/cm ----> grams ----> c.f.== 10200
+joules/cm ----> dynes ----> c.f.== 10000000
+joules/cm ----> joules/meter (newton) ----> c.f.== 100
+joules ----> poundals ----> c.f.== 723.3
+joules ----> pounds ----> c.f.== 22.48
+kilograms ----> dynes ----> c.f.== 980665
+kilograms ----> grams ----> c.f.== 1000
+kilograms ----> joules/cm ----> c.f.== .09807
+kilograms ----> joules/meter (newtons) ----> c.f.== 9.807
+kilograms ----> poundals ----> c.f.== 70.93
+kilograms ----> pounds ----> c.f.== 2.205
+kilograms ----> tons (long) ----> c.f.== 9.842E-04
+kilograms ----> tons (short) ----> c.f.== 1.102E-03
+kilograms/cu meter ----> grams/cu cm ----> c.f.== .001
+kilograms/cu meter ----> pound/cu ft ----> c.f.== .06243
+kilograms/cu meter ----> pounds/cu in ----> c.f.== 3.613E-05
+kilograms/cu meter ----> pounds/mil-foot ----> c.f.== 3.405E-10
+kilograms/meter ----> pounds/ft ----> c.f.== .6720
+kilograms/sq cm ----> dynes ----> c.f.== 980665
+kilograms/sq cm ----> atmospheres ----> c.f.== .9678
+kilograms/sq cm ----> feet of water ----> c.f.== 32.81
+kilograms/sq cm ----> inches of mercury ----> c.f.== 28.96
+kilograms/sq cm ----> pounds/sq ft ----> c.f.== 2048
+kilograms/sq cm ----> pounds/sq in ----> c.f.== 14.22
+kilograms/sq meter ----> atmospheres ----> c.f.== 9.678E-05
+kilograms/sq meter ----> bars ----> c.f.== 98.07E-06
+kilograms/cu meter ----> feet of water ----> c.f.== 3.281E-03
+kilograms/cu meter ----> inches of mercury ----> c.f.== 2.896E-03
+kilograms/cu meter ----> pounds/sq ft ----> c.f.== .2048
+kilograms/cu meter ----> pounds/sq in ----> c.f.== 1.422E-03
+kilograms/sq mm ----> kgs/sq meter ----> c.f.== 1E+06
+kilogram-calories ----> Btu ----> c.f.== 3.968
+kilogram-calories ----> foot-pounds ----> c.f.== 3088
+kilogram-calories ----> hp-hrs ----> c.f.== 1.56E-03
+kilogram-calories ----> joules ----> c.f.== 4186
+kilogram-calories ----> kg-meters ----> c.f.== 426.9
+kilogram-calories ----> kilojoules ----> c.f.== 4.186
+kilogram-calories ----> kilowatt-hrs ----> c.f.== 1.163E-03
+kilogram-meters ----> Btu ----> c.f.== 9.294E-03
+kilogram-meters ----> ergs ----> c.f.== 9.804E+07
+kilogram-meters ----> foot-pounds ----> c.f.== 7.233
+kilogram-meters ----> joules ----> c.f.== 9.804
+kilogram-meters ----> kg-calories ----> c.f.== 2.342E-03
+kilogram-meters ----> kilowatt-hrs ----> c.f.== 2.723E-06
+kilolines ----> maxwells ----> c.f.== 1000
+kiloliters ----> liters ----> c.f.== 1000
+kilometers ----> astronomical unit ----> c.f.== 6.68459E-09
+kilometers ----> centimeters ----> c.f.== 1E+05
+kilometers ----> feet ----> c.f.== 3280.840
+kilometers ----> inches ----> c.f.== 3.937E+04
+kilometers ----> light year ----> c.f.== 1.05702E-13
+kilometers ----> meters ----> c.f.== 1000
+kilometers ----> miles ----> c.f.== .6214
+kilometers ----> millimeters ----> c.f.== 1E+06
+kilometers ----> yards ----> c.f.== 1094
+kilometers/hr ----> cms/sec ----> c.f.== 27.78
+kilometers/hr ----> feet/min ----> c.f.== 54.68
+kilometers/hr ----> feet/sec ----> c.f.== .9113
+kilometers/hr ----> knots ----> c.f.== .5396
+kilometers/hr ----> meters/min ----> c.f.== 16.67
+kilometers/hr ----> miles/hr ----> c.f.== .6214
+kilometers/hr/sec ----> cms/hr/sec ----> c.f.== 27.78
+kilometers/hr/sec ----> ft/sec/sec ----> c.f.== .9113
+kilometers/hr/sec ----> meters/sec/sec ----> c.f.== .2778
+kilometers/hr/sec ----> miles/hr/sec ----> c.f.== .6214
+kilowatts ----> Btu/min ----> c.f.== 56.92
+kilowatts ----> foot-lbs/min ----> c.f.== 4.426E+04
+kilowatts ----> foot-lbs/sec ----> c.f.== 737.6
+kilowatts ----> horsepower ----> c.f.== 1.341
+kilowatts ----> kg-calories/min ----> c.f.== 14.34
+kilowatts ----> watts ----> c.f.== 1000
+kilowatt-hrs ----> Btu ----> c.f.== 3413
+kilowatt-hrs ----> ergs ----> c.f.== 3.6E+13
+kilowatt-hrs ----> foot-lbs ----> c.f.== 2.655E+06
+kilowatt-hrs ----> gram-calories ----> c.f.== 859850
+kilowatt-hrs ----> horsepower-hrs ----> c.f.== 1.341
+kilowatt-hrs ----> joules ----> c.f.== 3.6E+06
+kilowatt-hrs ----> kg-calories ----> c.f.== 860.5
+kilowatt-hrs ----> kg-meters ----> c.f.== 3.671E+05
+kilowatt-hrs ----> lbs of water evap. at 212�F ----> c.f.== 3.53
+kilowatt-hrs ----> lbs of water ^ from 62�-212�F ----> c.f.== 22.75
+knots ----> feet/hr ----> c.f.== 6080
+knots ----> kilometers/hr ----> c.f.== 1.852
+knots ----> nautical miles/hr ----> c.f.== 1
+knots ----> statute miles/hr ----> c.f.== 1.151
+knots ----> yards/hr ----> c.f.== 2025.73
+knots ----> feet/sec ----> c.f.== 1.6878
+league ----> miles (approx.) ----> c.f.== 3
+light-year ----> astronomical unit ----> c.f.== 63239.7
+light-year ----> miles ----> c.f.== 5.9E+12
+light-year ----> kilometers ----> c.f.== 9.46091E+12
+lines/sq cm ----> gausses ----> c.f.== 1
+lines/sq in ----> gauses ----> c.f.== .155
+lines/sq in ----> webers/sq cm ----> c.f.== 1.55E-09
+lines/sq in ----> webers/sq in ----> c.f.== 1E-08
+lines/sq in ----> webers/sq meter ----> c.f.== 1.55E-05
+links (engineer's) ----> inches ----> c.f.== 12
+links (surveyor's) ----> inches ----> c.f.== 7.92
+liters ----> bushels (U.S. dry) ----> c.f.== .02838
+liters ----> cu cm ----> c.f.== 1000
+liters ----> cu feet ----> c.f.== .03531
+liters ----> cu inches ----> c.f.== 61.02
+liters ----> cu meters ----> c.f.== .001
+liters ----> cu yards ----> c.f.== 1.308E-03
+liters ----> gallons (U.S. liq.) ----> c.f.== .2642
+liters ----> pints (U.S. liq.) ----> c.f.== 2.113
+liters ----> quarts (U.S. liq.) ----> c.f.== 1.057
+liters/min ----> cu ft/sec ----> c.f.== 5.886E-04
+liters/min ----> gals/sec ----> c.f.== 4.403E-03
+lumen ----> spherical candle power ----> c.f.== .07958
+lumen ----> watt ----> c.f.== .001496
+lumens/sq ft ----> foot-candles ----> c.f.== 1
+lumens/sq ft ----> lumen/sq meter ----> c.f.== 10.76
+lux ----> foot-candles ----> c.f.== .0929
+maxwells ----> kilolines ----> c.f.== .001
+maxwells ----> webers ----> c.f.== 1E-08
+megalines ----> maxwells ----> c.f.== 1E+06
+megohms ----> microhms ----> c.f.== 1E+12
+megohms ----> ohms ----> c.f.== 1E+06
+meters ----> centimeters ----> c.f.== 100
+meters ----> feet ----> c.f.== 3.281
+meters ----> inches ----> c.f.== 39.37
+meters ----> kilometers ----> c.f.== .001
+meters ----> miles (nautical) ----> c.f.== 5.399E-04
+meters ----> miles (statute) ----> c.f.== 6.214E-04
+meters ----> millimeters ----> c.f.== 1000
+meters ----> yards ----> c.f.== 1.094
+meters/min ----> cms/sec ----> c.f.== 1.667
+meters/min ----> feet/min ----> c.f.== 3.281
+meters/min ----> feet/sec ----> c.f.== .05468
+meters/min ----> kms/hr ----> c.f.== .06
+meters/min ----> knots ----> c.f.== .03238
+meters/min ----> miles/hr ----> c.f.== .03728
+meters/sec ----> feet/min ----> c.f.== 196.8
+meters/sec ----> feet/sec ----> c.f.== 3.281
+meters/sec ----> kilometers/hr ----> c.f.== 3.6
+meters/sec ----> kilometers/min ----> c.f.== .06
+meters/sec ----> miles/hr ----> c.f.== 2.237
+meters/sec ----> miles/min ----> c.f.== .03728
+meters/sec/sec ----> cms/sec/sec ----> c.f.== 100
+meters/sec/sec ----> ft/sec/sec ----> c.f.== 3.281
+meters/sec/sec ----> kms/hr/sec ----> c.f.== 3.6
+meters/sec/sec ----> miles/hr/sec ----> c.f.== 2.237
+meter-kilograms ----> cm-dynes ----> c.f.== 9.807E+07
+meter-kilograms ----> cm-grams ----> c.f.== 1E+05
+meter-kilograms ----> pound-feet ----> c.f.== 7.233
+microfarad ----> farads ----> c.f.== 1E-06
+micrograms ----> grams ----> c.f.== 1E-06
+microhms ----> megohms ----> c.f.== 1E-12
+microhms ----> ohms ----> c.f.== 1E-06
+microliters ----> liters ----> c.f.== 1E-06
+microns ----> meters ----> c.f.== 1E-06
+miles (nautical) ----> feet ----> c.f.== 6076.115
+miles (nautical) ----> kilometers ----> c.f.== 1.852
+miles (nautical) ----> meters ----> c.f.== 1852
+miles (nautical) ----> miles (statute) ----> c.f.== 1.1516
+miles (nautical) ----> yards ----> c.f.== 2025.37
+miles (statute) ----> centimeters ----> c.f.== 1.609E+05
+miles (statute) ----> feet ----> c.f.== 5280
+miles (statute) ----> inches ----> c.f.== 6.336E+04
+miles (statute) ----> kilometers ----> c.f.== 1.609
+miles (statute) ----> meters ----> c.f.== 1609
+miles (statute) ----> miles (nautical) ----> c.f.== .8684
+miles (statute) ----> yards ----> c.f.== 1760
+miles/hr ----> cms/sec ----> c.f.== 44.7
+miles/hr ----> feet/min ----> c.f.== 88
+miles/hr ----> feet/sec ----> c.f.== 1.467
+miles/hr ----> kms/hr ----> c.f.== 1.609
+miles/hr ----> kms/min ----> c.f.== .02682
+miles/hr ----> knots ----> c.f.== .8684
+miles/hr ----> meters/min ----> c.f.== 26.82
+miles/hr ----> miles/min ----> c.f.== .1667
+miles/hr/sec ----> cms/sec/sec ----> c.f.== 44.7
+miles/hr/sec ----> feet/sec/sec ----> c.f.== 1.467
+miles/hr/sec ----> kms/hr/sec ----> c.f.== 1.609
+miles/hr/sec ----> meters/sec/sec ----> c.f.== .447
+miles/min ----> cms/sec ----> c.f.== 2682
+miles/min ----> feet/sec ----> c.f.== 88
+miles/min ----> kms/min ----> c.f.== 1.609
+miles/min ----> knots/min ----> c.f.== .8684
+miles/min ----> miles/hr ----> c.f.== 60
+mil-feet ----> cu inches ----> c.f.== 9.425E-06
+milliers ----> kilograms ----> c.f.== 1000
+millmicrons ----> meters ----> c.f.== 1E-09
+milligrams ----> grains ----> c.f.== .01543236
+milligrams ----> grams ----> c.f.== .001
+milligrams/liter ----> parts/million ----> c.f.== 1
+millihenries ----> henries ----> c.f.== .001
+milliliters ----> liters ----> c.f.== .001
+millimeters ----> centimeters ----> c.f.== .1
+millimeters ----> feet ----> c.f.== 3.281E-03
+millimeters ----> inches ----> c.f.== .03937
+millimeters ----> kilometers ----> c.f.== 1E-06
+millimeters ----> meters ----> c.f.== .001
+millimeters ----> miles ----> c.f.== 6.214E-07
+millimeters ----> mils ----> c.f.== 39.37
+millimeters ----> yards ----> c.f.== 1.094E-03
+million gals/day ----> cu ft/sec ----> c.f.== 1.54723
+mils ----> centimeters ----> c.f.== 2.54E-03
+mils ----> feet ----> c.f.== 8.333E-05
+mils ----> inches ----> c.f.== .001
+mils ----> kilometers ----> c.f.== 2.54E-03
+mils ----> yards ----> c.f.== 2.778E-05
+minims (British) ----> cubic cm ----> c.f.== .059192
+minims (US fluid) ----> cubic cm ----> c.f.== .061612
+minutes (angles) ----> degrees ----> c.f.== .01667
+minutes (angles) ----> quadrants ----> c.f.== 1.852E-04
+minutes (angles) ----> radians ----> c.f.== 2.909E-04
+minutes (angles) ----> seconds ----> c.f.== 60
+nepers ----> decibals ----> c.f.== 8.686
+newton ----> dynes ----> c.f.== 1E+05
+ohm (international) ----> ohm (absolute) ----> c.f.== 1.0005
+ohms ----> megohms ----> c.f.== 1E-06
+ohms ----> microhms ----> c.f.== 1E+06
+ounces ----> drams ----> c.f.== 16
+ounces ----> grains ----> c.f.== 437.5
+ounces ----> grams ----> c.f.== 28.349523
+ounces ----> pounds ----> c.f.== .0625
+ounces ----> ounces (troy) ----> c.f.== .9115
+ounces ----> tons (long) ----> c.f.== 2.79E-05
+ounces ----> tons (metric) ----> c.f.== 2.835E-05
+ounces (fluid) ----> cu inches ----> c.f.== 1.805
+ounces (fluid) ----> liters ----> c.f.== .02957
+ounces (troy) ----> grains ----> c.f.== 480
+ounces (troy) ----> grams ----> c.f.== 31.103481
+ounces (troy) ----> ounces (avoirdupois) ----> c.f.== 1.09714
+ounces (troy) ----> pennyweights (troy) ----> c.f.== 20
+ounces (troy) ----> pounds (troy) ----> c.f.== .08333
+ounces/sq inch ----> dynes/sq cm ----> c.f.== 4309
+ounces/sq inch ----> pounds/sq in ----> c.f.== .0625
+parsec ----> miles ----> c.f.== 19E+12
+parsec ----> kilometers ----> c.f.== 3.084E+13
+parts/million ----> grains/U.S. gal. ----> c.f.== .0584
+parts/million ----> grains/imperial gal ----> c.f.== .07016
+parts/million ----> pounds/million gal ----> c.f.== 8.345
+pecks (British) ----> cubic inches ----> c.f.== 554.6
+pecks (British) ----> liters ----> c.f.== 9.091901
+pecks (US) ----> bushels ----> c.f.== .25
+pecks (US) ----> cubic inches ----> c.f.== 537.605
+pecks (US) ----> liters ----> c.f.== 8.809582
+pecks (US) ----> quarts (dry) ----> c.f.== 8
+pennyweights (troy) ----> grains ----> c.f.== 24
+pennyweights (troy) ----> ounces (troy) ----> c.f.== .05
+pennyweights (troy) ----> grams ----> c.f.== 1.55517
+pennyweights (troy) ----> pounds (troy) ----> c.f.== 4.1667E-03
+pints (Brit.) ----> cu centimeters ----> c.f.== 568.26125
+pints (Brit.) ----> cu inches ----> c.f.== 34.67743
+pints (Brit.) ----> gallons (Brit.) ----> c.f.== .125
+pints (Brit.) ----> gills (Brit.) ----> c.f.== 4
+pints (Brit.) ----> liters ----> c.f.== .56826125
+pints (Brit.) ----> milliliters ----> c.f.== 568.26125
+pints (Brit.) ----> ounces (Brit. fluid) ----> c.f.== 20
+pints (Brit.) ----> pints (US dry) ----> c.f.== 1.032057
+pints (Brit.) ----> pints (US liquid) ----> c.f.== 1.200950
+pints (US dry) ----> cu centimeters ----> c.f.== 550.6105
+pints (US dry) ----> cu inches ----> c.f.== 33.6003125
+pints (US dry) ----> liters ----> c.f.== .5506105
+pints (US dry) ----> milliters ----> c.f.== 550.6105
+pints (US dry) ----> peck (US) ----> c.f.== .0625
+pints (US dry) ----> pint (Brit. dry) ----> c.f.== .9689390
+pints (US dry) ----> quarts (US dry) ----> c.f.== .5
+pints (US liquid) ----> cu cm ----> c.f.== 473.1765
+pints (US liquid) ----> cu feet ----> c.f.== .01671
+pints (US liquid) ----> cu inches ----> c.f.== 28.875
+pints (US liquid) ----> cu meters ----> c.f.== 4.732E-04
+pints (US liquid) ----> cu yards ----> c.f.== 6.189E-04
+pints (US liquid) ----> gallons (US) ----> c.f.== .125
+pints (US liquid) ----> gills (US) ----> c.f.== 4
+pints (US liquid) ----> liters ----> c.f.== .4731765
+pints (US liquid) ----> milliliters ----> c.f.== 473.1765
+pints (US liquid) ----> ounce (US fluid) ----> c.f.== 16
+pints (US liquid) ----> pints (Brit. liquid) ----> c.f.== .8326742
+pints (US liquid) ----> quarts (liquid) ----> c.f.== .5
+Plank's quantum ----> erg-second ----> c.f.== 6.624E-27
+poise ----> gram/cm sec ----> c.f.== 1
+poundals ----> dynes ----> c.f.== 13826
+poundals ----> grams ----> c.f.== 14.1
+poundals ----> joules/cm ----> c.f.== 1.383E-03
+poundals ----> joules/meter (newtons) ----> c.f.== .1383
+poundals ----> kilograms ----> c.f.== .0141
+poundals ----> pounds ----> c.f.== .03108
+pounds ----> drams ----> c.f.== 256
+pounds ----> dynes ----> c.f.== 44.4823E+04
+pounds ----> grains ----> c.f.== 7000
+pounds ----> grams ----> c.f.== 453.5924
+pounds ----> joules/cm ----> c.f.== .04448
+pounds ----> joules/meter (newtons) ----> c.f.== 4.448
+pounds ----> kilograms ----> c.f.== .4536
+pounds ----> ounces ----> c.f.== 16
+pounds ----> ounces (troy) ----> c.f.== 14.5833
+pounds ----> poundals ----> c.f.== 32.17
+pounds ----> pounds (troy) ----> c.f.== 1.21528
+pounds ----> stones (British) ----> c.f.== .07142857
+pounds ----> tons (short) ----> c.f.== .0005
+pounds (troy) ----> grains ----> c.f.== 5760
+pounds (troy) ----> grams ----> c.f.== 373.24177
+pounds (troy) ----> ounces (avoirdupois) ----> c.f.== 13.1657
+pounds (troy) ----> ounces (troy) ----> c.f.== 12
+pounds (troy) ----> pennyweights (troy) ----> c.f.== 240
+pounds (troy) ----> pounds (avoirdupois) ----> c.f.== .822857
+pounds (troy) ----> tons (long) ----> c.f.== 3.6735E-04
+pounds (troy) ----> tons (metric) ----> c.f.== 3.7324E-04
+pounds (troy) ----> tons (short) ----> c.f.== 4.1143E-04
+pounds of water ----> cu feet ----> c.f.== .01602
+pounds of water ----> cu inches ----> c.f.== 27.68
+pounds of water ----> gallons ----> c.f.== .1198
+pounds of water/min ----> cu ft/sec ----> c.f.== 2.67E-04
+pound-feet ----> cm-dynes ----> c.f.== 1.356E+07
+pound-feet ----> cm-grams ----> c.f.== 13825
+pound-feet ----> meter-kgs ----> c.f.== .1383
+pounds/cu ft ----> grams/cu cm ----> c.f.== .01602
+pounds/cu ft ----> kgs/cu meter ----> c.f.== 16.02
+pounds/cu ft ----> pounds/cu in ----> c.f.== 5.787E-04
+pounds/cu ft ----> pounds/mil-foot ----> c.f.== 5.456E-09
+pounds/cu in ----> gms/cu cm ----> c.f.== 27.68
+pounds/cu in ----> kgs/cu meter ----> c.f.== 2.768E+04
+pounds/cu in ----> pounds/cu ft ----> c.f.== 1728
+pounds/cu in ----> pounds/mil-foot ----> c.f.== 9.425E-06
+pounds/ft ----> kgs/meter ----> c.f.== 1.488
+pounds/in ----> gms/cm ----> c.f.== 178.6
+pounds/mil-foot ----> gms/cu cm ----> c.f.== 2.306E+06
+pounds/sq ft ----> atmospheres ----> c.f.== 4.725E-04
+pounds/sq ft ----> feet of water ----> c.f.== .01602
+pounds/sq ft ----> inches of mercury ----> c.f.== .01414
+pounds/sq ft ----> kgs/sq meter ----> c.f.== 4.882
+pounds/sq ft ----> pounds/sq in ----> c.f.== 6.944E-03
+pounds/sq in ----> atmospheres ----> c.f.== .06804
+pounds/sq in ----> feet of water ----> c.f.== 2.307
+pounds/sq in ----> inches of mercury ----> c.f.== 2.036
+pounds/sq in ----> kgs/sq meter ----> c.f.== 703.1
+pounds/sq in ----> pounds/sq ft ----> c.f.== 144
+quadrants (angle) ----> degrees ----> c.f.== 90
+quadrants (angle) ----> minutes ----> c.f.== 5400
+quadrants (angle) ----> radians ----> c.f.== 1.571
+quadrants (angle) ----> seconds ----> c.f.== 3.24E+05
+quarts (dry) ----> cu inches ----> c.f.== 67.2
+quarts (liquid) ----> cu cms ----> c.f.== 946.4
+quarts (liquid) ----> cu feet ----> c.f.== .03342
+quarts (liquid) ----> cu inches ----> c.f.== 57.75
+quarts (liquid) ----> cu meters ----> c.f.== 9.464E-04
+quarts (liquid) ----> cu yards ----> c.f.== 1.238E-03
+quarts (liquid) ----> gallons ----> c.f.== .25
+quarts (liquid) ----> liters ----> c.f.== .9463
+radians ----> degrees ----> c.f.== 57.29578
+radians ----> minutes ----> c.f.== 3438
+radians ----> seconds ----> c.f.== 2.063E+05
+radians/sec ----> degrees/sec ----> c.f.== 57.29578
+radians/sec ----> revolutions/min ----> c.f.== 9.549
+radians/sec ----> revolutions/sec ----> c.f.== .1592
+radians/sec/sec ----> revs./min/min ----> c.f.== 572.9578
+radians/sec/sec ----> revs./min/sec ----> c.f.== 9.549
+radians/sec/sec ----> revs./sec/sec ----> c.f.== .1592
+revolutions ----> degrees ----> c.f.== 360
+revolutions ----> quadrants ----> c.f.== 4
+revolutions ----> radians ----> c.f.== 6.283
+revolutions/min ----> degrees/sec ----> c.f.== 6
+revolutions/min ----> radians/sec ----> c.f.== .1047
+revolutions/min ----> revs./sec ----> c.f.== .01667
+revolutions/min/min ----> radians/sec/sec ----> c.f.== 1.745E-03
+revolutions/min/min ----> revs/min/min ----> c.f.== .01667
+revolutions/min/min ----> revs/sec/sec ----> c.f.== 2.778E-04
+revolutions/sec ----> degrees/sec ----> c.f.== 360
+revolutions/sec ----> radians/sec ----> c.f.== 6.283
+revolutions/sec ----> revs/min ----> c.f.== 60
+revolutions/sec/sec ----> radians/sec/sec ----> c.f.== 6.283
+revolutions/sec/sec ----> revs/min/min ----> c.f.== 3600
+revolutions/sec/sec ----> revs/min/sec ----> c.f.== 60
+rod ----> chain (Gunter's) ----> c.f.== .25
+rod ----> meters ----> c.f.== 5.029
+rods (surveyor's meas.) ----> yards ----> c.f.== 5.5
+rods ----> feet ----> c.f.== 16.5
+scruples ----> grains ----> c.f.== 20
+seconds (angle) ----> degrees ----> c.f.== 2.7777778E-04
+seconds (angle) ----> minutes ----> c.f.== .01666667
+seconds (angle) ----> quadrants ----> c.f.== 3.087E-06
+seconds (angle) ----> radians ----> c.f.== 4.848137E-06
+slug ----> kilogram ----> c.f.== 14.59
+slug ----> pounds ----> c.f.== 32.17
+span ----> inch ----> c.f.== 9
+sphere ----> steradians ----> c.f.== 12.57
+square centimeters ----> circular mils ----> c.f.== 1.973E+05
+square centimeters ----> square feet ----> c.f.== 1.076E-03
+square centimeters ----> square inches ----> c.f.== .155
+square centimeters ----> square meters ----> c.f.== .0001
+square centimeters ----> sq miles ----> c.f.== 3.861E-11
+square centimeters ----> sq millimeters ----> c.f.== 100
+square centimeters ----> sq yards ----> c.f.== 1.196E-04
+square feet ----> acres ----> c.f.== 2.296E-05
+square feet ----> circular mils ----> c.f.== 1.833E+08
+square feet ----> sq cms ----> c.f.== 929
+square feet ----> sq inches ----> c.f.== 144
+square feet ----> sq meters ----> c.f.== .0929
+square feet ----> sq miles ----> c.f.== 3.587E-08
+square feet ----> sq millimeters ----> c.f.== 9.29E+04
+square feet ----> sq yards ----> c.f.== .1111
+square inches ----> circular mils ----> c.f.== 1.273E+06
+square inches ----> sq cms ----> c.f.== 6.452
+square inches ----> sq feet ----> c.f.== 6.944E-03
+square inches ----> sq millimeters ----> c.f.== 645.2
+square inches ----> sq mils ----> c.f.== 1E+06
+square inches ----> sq yards ----> c.f.== 7.716E-04
+square kilometers ----> acres ----> c.f.== 247.1
+square kilometers ----> sq cms ----> c.f.== 1E+10
+square kilometers ----> sq ft ----> c.f.== 10.76E+06
+square kilometers ----> sq inches ----> c.f.== 1.55E+09
+square kilometers ----> sq meters ----> c.f.== 1E+06
+square kilometers ----> sq miles ----> c.f.== .3861
+square kilometers ----> sq yards ----> c.f.== 1.196E+06
+square meters ----> acres ----> c.f.== 2.471E-04
+square meters ----> sq cms ----> c.f.== 1E+04
+square meters ----> sq feet ----> c.f.== 10.76
+square meters ----> sq inches ----> c.f.== 1550
+square meters ----> sq miles ----> c.f.== 3.861E-07
+square meters ----> sq millimeters ----> c.f.== 1E+06
+square meters ----> sq yards ----> c.f.== 1.196
+square miles ----> acres ----> c.f.== 640
+square miles ----> sq feet ----> c.f.== 2.78784E+07
+square miles ----> sq kms ----> c.f.== 2.59
+square miles ----> sq meters ----> c.f.== 2.59E+06
+square miles ----> sq yards ----> c.f.== 3.098E+06
+square millimeters ----> circular mils ----> c.f.== 1973
+square millimeters ----> sq cms ----> c.f.== .01
+square millimeters ----> sq feet ----> c.f.== 1.076E-05
+square millimeters ----> sq inches ----> c.f.== 1.55E-03
+square mils ----> circular mils ----> c.f.== 1.273
+square mils ----> sq cms ----> c.f.== 6.452E-06
+square mils ----> sq inches ----> c.f.== 1E-06
+square yards ----> acres ----> c.f.== 2.066E-04
+square yards ----> sq cms ----> c.f.== 8361
+square yards ----> sq feet ----> c.f.== 9
+square yards ----> sq inches ----> c.f.== 1296
+square yards ----> sq meters ----> c.f.== .8361
+square yards ----> sq miles ----> c.f.== 3.228E-07
+square yards ----> sq millimeters ----> c.f.== 8.361E+05
+stone (British) ----> pound (avoirdupois) ----> c.f.== 14
+tablespoons (metric) ----> milliliter ----> c.f.== 15
+tablespoons (US) ----> milliliter ----> c.f.== 14.79
+teaspoons (metric) ----> milliliter ----> c.f.== 5
+teaspoons (US) ----> cubic cms ----> c.f.== 4.93
+tons (long) ----> kilograms ----> c.f.== 1016
+tons (long) ----> pounds ----> c.f.== 2240
+tons (long) ----> tons (short) ----> c.f.== 1.12
+tons (metric) ----> kilograms ----> c.f.== 1000
+tons (metric) ----> pounds ----> c.f.== 2205
+tons (short) ----> ounces ----> c.f.== 32000
+tons (short) ----> ounces (troy) ----> c.f.== 29166.66
+tons (short) ----> pounds ----> c.f.== 2000
+tons (short) ----> pounds (troy) ----> c.f.== 2430.56
+tons (short) ----> tons (long) ----> c.f.== .89287
+tons (short) ----> tons (metric) ----> c.f.== .9078
+tons (short)/sq ft ----> kgs/sq meter ----> c.f.== 9765
+tons (short)/sq ft ----> pounds/sq ft ----> c.f.== 2000
+tons (short)/sq ft ----> pounds/sq in ----> c.f.== 13.8889
+tons of water/24 hrs ----> pounds of water/hr ----> c.f.== 83.333
+tons of water/24 hrs ----> gallons/min ----> c.f.== .16643
+tons of water/24 hrs ----> cu ft/hr ----> c.f.== 1.3349
+volt inch ----> volt/cm ----> c.f.== .3937
+volt (absolute) ----> statvolts ----> c.f.== .003336
+watts ----> Btu/hr ----> c.f.== 3.4129
+watts ----> Btu/min ----> c.f.== .05688
+watts ----> erg/sec ----> c.f.== 107
+watts ----> foot-lbs/min ----> c.f.== 44.27
+watts ----> foot-lbs/sec ----> c.f.== .7378
+watts ----> horsepower ----> c.f.== 1.341E-03
+watts ----> horsepower (metric) ----> c.f.== 1.36E-03
+watts ----> kg-calories/min ----> c.f.== .01433
+watts ----> kilowatts ----> c.f.== .001
+watts (absolute) ----> Btu (mean)/min ----> c.f.== .056884
+watts (absolute) ----> joules/sec ----> c.f.== 1
+watt-hours ----> Btu ----> c.f.== 3.413
+watt-hours ----> ergs ----> c.f.== 3.6E+10
+watt-hours ----> foot-pounds ----> c.f.== 2656
+watt-hours ----> gram-calories ----> c.f.== 859.85
+watt-hours ----> horsepower-hrs ----> c.f.== 1.341E-03
+watt-hours ----> kilogram-calories ----> c.f.== .8605
+watt-hours ----> kiloram-meters ----> c.f.== 367.2
+watt-hours ----> kilowatt-hrs ----> c.f.== .001
+watt (international) ----> watt (absolute) ----> c.f.== 1.0002
+webers ----> maxwells ----> c.f.== 1E+08
+webers ----> kilolines ----> c.f.== 1E+05
+webers/sq in ----> gausses ----> c.f.== 1.55E+07
+webers/sq in ----> lines/sq in ----> c.f.== 1E+08
+webers/sq in ----> webers/sq cm ----> c.f.== .155
+webers/sq in ----> webers/sq meter ----> c.f.== 1550
+webers/sq meter ----> gausses ----> c.f.== 1E+04
+webers/sq meter ----> lines/sq in ----> c.f.== 6.452E+04
+webers/sq meter ----> webers/sq cm ----> c.f.== 1E-04
+webers/sq meter ----> webers/sq in ----> c.f.== 6.452E-04
+week ----> day ----> c.f.== 7
+week ----> hour ----> c.f.== 168
+week ----> minute (time) ----> c.f.== 10080
+week ----> month ----> c.f.== 0.2299795
+week ----> second ----> c.f. == 6.048E+05
+yards ----> centimeters ----> c.f.== 91.44
+yards ----> fathom ----> c.f.== 0.5
+yards ----> foot ----> c.f.== 3
+yards ----> inches ----> c.f.== 36
+yards ----> kilometers ----> c.f.== 9.144E-04
+yards ----> meters ----> c.f.== .9144
+yards ----> miles (nautical) ----> c.f.== 4.93737E-04
+yards ----> miles (statute) ----> c.f.== 5.681818E-04
+yards ----> millimeters ----> c.f.== 914.4
+year (mean of 4 year period) ----> day ----> c.f.== 365.25
+year (mean of 4 year period) ----> hour ----> c.f.== 8766
+year (mean of 4 year period) ----> minute (time) ----> c.f.== 5.2596E+05
+year (mean of 4 year period) ----> second (time) ----> c.f.== 3.15576E+07
+year (mean of 4 year period) ----> week ----> c.f.== 52.17857
